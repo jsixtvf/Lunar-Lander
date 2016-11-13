@@ -7,11 +7,14 @@
 	}
 
 	#div2{
-	width:30px;
-	height:30px;
-	right:12%;
-	bottom:95%;
+	width:11%;
+	height:5%;
+	right:3%;
+	bottom:92%;
 	position:fixed;
+	padding-bottom:0px;
+	
+	
 	}
 	
 	#div3{
@@ -27,6 +30,19 @@
 	left:1%;
 	width:100px;
 	height:50px;
+	}
+	
+	#div2:hover #div5{
+		visibility:visible;
+	}
+	
+	#div5{
+	bottom:20%;
+	position:fixed;
+	left:17.5%;
+	width:65%;
+	height:65%;
+	visibility:hidden;
 	}
 	
 	#divnave{
