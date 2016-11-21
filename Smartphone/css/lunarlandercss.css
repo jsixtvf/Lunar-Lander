@@ -7,7 +7,7 @@
 	}
 
 	#div2{
-	width:22%;
+	width:26%;
 	height:7%;
 	right:6%;
 	bottom:90%;
@@ -15,7 +15,7 @@
 	}
 	
 	#div3{
-	width:40%;
+	width:45%;
 	height:40%;
 	left:3%;
 	position:fixed;
@@ -32,16 +32,44 @@
 	#div2:hover #div5{
 		visibility:visible;
 	}
+	#div5:hover #div6{
+		visibility:visible;
+	}
 	
 	#div5{
-	bottom:12%;
+	bottom:11%;
 	position:fixed;
-	left:7%;
-	width:85%;
-	height:70%;
+	left:3%;
+	width:91%;
+	height:75%;
+	visibility:hidden;
+	
+	}
+	
+	#div6{
+	background-color:blue;
+	bottom:20%;
+	position:fixed;
+	width: 47%;
+	height:45%;
+	left:18%;
+	font-variant:small-caps;
+	padding: 8%;
+	float: right;
+    border: 7px solid #73AD21;
+	line-height: 250%;
 	visibility:hidden;
 	}
 	
+	p{
+		text-align: center;
+		color:white;
+		margin-top:4%;
+		margin-bottom:1%;
+		font-size:2.7em;
+		
+		/*font-weight: bold;*/
+	}
 	
 	#divnave{
 	width: 17%;
