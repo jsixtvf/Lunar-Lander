@@ -7,9 +7,9 @@
 	}
 
 	#div2{
-	width:26%;
-	height:7%;
-	right:6%;
+	width:28%;
+	height:8%;
+	right:5%;
 	bottom:90%;
 	position:fixed;
 	}
@@ -22,7 +22,7 @@
 	}
 
 	#div4{
-	bottom:5%;
+	bottom:11%;
 	position:fixed;
 	left:3%;
 	width:13%;
@@ -46,6 +46,12 @@
 	
 	}
 	
+	#div5 img {
+	position:absolute;
+	right:0;
+	top:5;
+	}
+	
 	#div6{
 	background-color:blue;
 	bottom:20%;
@@ -64,16 +70,26 @@
 	p{
 		text-align: center;
 		color:white;
-		margin-top:4%;
-		margin-bottom:1%;
-		font-size:2.7em;
+		margin-top:10%;
+		margin-bottom:5%;
+		font-size:2.3em;
 		
 		/*font-weight: bold;*/
 	}
+
+	#div7{
+		position:fixed;
+		bottom:50%;
+		right:5%;
+		top:80%;
+		width:14%;
+		height:7%;
+		text-align:center
+	}
 	
 	#divnave{
-	width: 17%;
-	height: 15%;
+	width: 15%;
+	height: 17%;
 	top:8%;
 	left:44%;
 	position:fixed;
