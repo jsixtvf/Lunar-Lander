@@ -1,0 +1,93 @@
+	#div1 {
+		width: 101%;
+		height: 17%;
+		top: 83%;
+		left: -1%;
+		position: fixed;
+	}
+	#div2 {
+		width: 16%;
+		height: 9%;
+		right: 3%;
+		bottom: 90%;
+		position: fixed;
+		padding-bottom: 0px;
+	}
+	#div3 {
+		width: 27%;
+		height: 46%;
+		left: 1%;
+		position: fixed;
+	}
+	#div4 {
+		bottom: 14%;
+		position: fixed;
+		left: 1.5%;
+		width: 6%;
+		height: 9%;
+	}
+	#div2:hover #div5 {
+		visibility: visible;
+	}
+	#div5:hover #div6 {
+		visibility: visible;
+	}
+	#div5 {
+		bottom: 10%;
+		position: fixed;
+		left: 15%;
+		width: 66%;
+		height: 88%;
+		visibility: hidden;
+	}
+	#div5 img {
+		position: absolute;
+		right: 0;
+		top: 5;
+	}
+	#div6 {
+		background-color: blue;
+		bottom: 20%;
+		position: fixed;
+		height: 35%;
+		left: 25%;
+		font-variant: small-caps;
+		padding: 8%;
+		float: right;
+		width: 35%;
+		border: 7px solid #73AD21;
+		line-height: 140%;
+		visibility: hidden;
+	}
+	p {
+		text-align: center;
+		color: white;
+		margin-top: 0.2%;
+		font-size: 1.3em;
+		margin-bottom: 15%;
+		/*font-weight: bold;*/
+	}
+	#div7 {
+		position: fixed;
+		bottom: 50%;
+		right: 4%;
+		top: 79%;
+		width: 10%;
+		height: 5%;
+		text-align: center
+	}
+	#divnave {
+		width: 6%;
+		height: 15%;
+		top: 5%;
+		left: 49%;
+		position: fixed;
+	}
+	#background {
+		background-repeat: no-repeat;
+		height: 150px;
+		width: 150px;
+		max-width: 100%;
+		height: auto;
+		background-size: cover;
+	}
