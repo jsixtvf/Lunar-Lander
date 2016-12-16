@@ -7,7 +7,7 @@ Juego multidevice de alunizaje con nave.
 
 **JavaScript Lunar Lander**
 
-Cambios:
+**Cambios:**
 
 - Se ha eliminado por el momento la imagen del altavoz.
 
