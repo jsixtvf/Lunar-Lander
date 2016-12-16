@@ -1,6 +1,8 @@
 # Lunar-Lander
 Juego multidevice de alunizaje con nave.
 
+
+
 16-12-2016 JavaScript Lunar Lander
 
 Cambios:
@@ -21,6 +23,8 @@ Cambios:
 
 
 
+
+22-11-2016
 
 **He tenido que hacer los siguientes cambios respecto a como me fueron entregadas las imágenes.**
 
