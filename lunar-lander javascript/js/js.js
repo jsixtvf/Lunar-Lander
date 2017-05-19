@@ -106,7 +106,7 @@ function quedaFuel(){
 		if(fuel==0){
 
 			//window.alert("Se acabó el fuel");
-			document.onkeydown = motorOff;
+			document.onkeydown = motorOff();
 			fuel=0;
 			//motorOff()
 		}
